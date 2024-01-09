@@ -51,7 +51,7 @@ const Gerardo-jd = {
   code: [C#, VB.Net, Java, HTML, CSS ],
   tools: [React, Node] 
 }
-
+```
 <!--
 **Gerardo-jd/Gerardo-jd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
